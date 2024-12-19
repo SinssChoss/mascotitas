@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #CCF3EE;
+    color: #40514e;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 3;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    margin: 50px auto;
+    width: 10%;
+    border: dotted #7F8487 6px;
+    border-bottom: none;
+  
+}
+
+.nube-superior {
+    width: 200px;
+    position: relative;
+    left: 350px;
+    padding-top: 100px;
+}
+
+.nube-inferior {
+    width: 240px;
+    position: relative;
+    right: 350px;
+    padding-bottom: 100px;
+}
+
+.contenedorsuperior {
+    background-color: aliceblue;
+}
+
+.contenedorinferior {
+    background-color: #66BFBF;
+    padding: 70px 30px;
+}
+  
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 30px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+    
+}
+
+.gatos-caracteres {
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+p {
+    line-height: 2;
+}
+
+.kenny {
+    width: 150px;
+    padding-top: 50px;
+}
+
+.gato1 {
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.gato2 {
+    width: 150px;
+    float: right;
+    margin-left: 30px;
+}
+
+.gatos {
+    width: 200px;
+    margin: 80px 40px;
+}
+    
+.mensaje-contacto {
+    width: 40%;
+    margin: 40px auto 80px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 30px 0;
+}
+
